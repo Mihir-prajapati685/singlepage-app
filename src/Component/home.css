@@ -1,0 +1,19 @@
+
+.imgclass{
+    width:100px;
+    height: 100px;
+}
+.animation-container{
+    margin-left: 60px;
+    margin-top:60px;
+    padding-left: 60px;
+
+}
+.borderclass {
+    border-bottom: 2px dotted #000;
+    text-decoration: none;
+    margin-top:4px;
+    width:25rem;
+
+  }
+
